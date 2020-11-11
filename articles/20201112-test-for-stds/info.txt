@@ -1,0 +1,3 @@
+tag=2
+title='性病検査受けてみた！'
+url=20201112-test-for-stds
